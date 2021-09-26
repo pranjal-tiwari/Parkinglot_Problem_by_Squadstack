@@ -12,7 +12,7 @@ Due to government regulation, the system should provide us with the ability to f
 ●	Slot numbers of all slots where cars of drivers of a particular age are parked.
 We get the input by reading input.txt directly (you’ll have to create it in your environment) .The file will contain a set of commands separated by a newline, we need to execute the commands in order and produce output.
 
-Input:- inputs.txt
+### Input:- https://github.com/pranjal-tiwari/Parkinglot_Problem_by_Squadstack/blob/master/inputs.txt
 Create_parking_lot 6
 Park KA-01-HH-1234 driver_age 21
 Park PB-01-HH-1234 driver_age 21
@@ -23,16 +23,15 @@ Leave 2
 Park HR-29-TG-3098 driver_age 39
 Vehicle_registration_number_for_driver_of_age 18
 
-# Solution to Parking Lot system Design problem statement:-
+### Solution to Parking Lot system Design problem statement:-
 
 Create a parking lot with 'n' number of slots, and always fill the slots in First In First Come Basis
 maintaing track of the slots whenever it get's free, allocate only the slot with min value from entry point using sorting O(nlog(n)
 Implementation of System Design
 
-
 Number of Entry and exit points.
-[Output:-]Link
-Output
+
+### Output :-
 
 How To Run on Your Local Machine
 using Python 3 for the implementation
