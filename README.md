@@ -31,15 +31,14 @@ Implementation of System Design
 
 Number of Entry and exit points.
 
-### Output :-
+### Output :- https://github.com/pranjal-tiwari/Parkinglot_Problem_by_Squadstack/blob/master/output.PNG
 
-How To Run on Your Local Machine
+### How To Run on Your Local Machine
 using Python 3 for the implementation
 
 Download/git clone the repo
 python src/parking.py
 To Run all the input put command in terminal $ ./squadstack_parking_lot_bash inputs.txt
 To Run Indivisual commands python src/parking_lot.py
-Required Link 1 Required Link 2
 
 Thanks :)
